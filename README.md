@@ -6,3 +6,5 @@ Ferramenta elaborada para localização do Distrito Administrativo (DA), Unidade
 663.310 visualizações
 
 Link para acessar a ferramenta: https://www.google.com/maps/d/u/1/viewer?mid=1ZdzK_HpjS1xBTZbtGzHSq6y1OTzjW1XD&ll=-23.627192960429145%2C-46.50182891864788&z=11
+
+![image](https://github.com/gisa-ceinfo-sms-sp/Territorios-UVIS/assets/75272641/9ca6acf3-f9b2-4df4-80f2-fd21a4d015a7)
